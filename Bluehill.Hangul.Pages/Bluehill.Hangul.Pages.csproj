@@ -11,6 +11,6 @@
     <PackageReference Include="Microsoft.Extensions.Localization" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Bluehill.Hangul\Bluehill.Hangul.csproj" />
+    <ProjectReference Include="..\Bluehill.Hangul\Bluehill.Test36.csproj" />
   </ItemGroup>
 </Project>
